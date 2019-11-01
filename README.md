@@ -5,11 +5,32 @@ A collection of interesting Data Science Projects that highlight my foundational
 
 Skills tested: Importing & cleaning data in Python, data manipulation with Python, data visualization with python's matplotlib, foundational understanding of statistics & probability.
 
-In 1847, the Hungarian physician Ignaz Semmelweis makes a breakthough discovery: He discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
+Project description : In 1847, the Hungarian physician Ignaz Semmelweis makes a breakthough discovery: He discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
 In this python project we will reanalyze the medical data Semmelweis collected.
 
 2. GoT network analysis project
 
 Skills tested: Network analysis in Python, foundational understanding of pandas
 
-Jon Snow, Daenerys Targaryen, or Tyrion Lannister? Who is the most important character in Game of Thrones? Let's see what mathematics can tell us about this!In this project, we will look at the character co-occurrence network and its evolution over the five books in R.R. Martin's hugely popular book series A Song of Ice and Fire (perhaps better known as the TV show Game of Thrones). We will look at how the importance of the characters changes over the books using different centrality measures.
+Project description :Jon Snow, Daenerys Targaryen, or Tyrion Lannister? Who is the most important character in Game of Thrones? Let's see what mathematics can tell us about this!
+In this project, we will look at the character co-occurrence network and its evolution over the five books in R.R. Martin's hugely popular book series A Song of Ice and Fire (perhaps better known as the TV show Game of Thrones). We will look at how the importance of the characters changes over the books using different centrality measures.
+
+3. SEM with Python
+
+Skills tested: Intermediate level knowledge of python, foundational understanding of data science principles
+
+Project description :In this case study, we work for a digital marketing agency, which is approached by a massive online retailer of furniture. We are tasked with creating a prototype set of keywords for search campaigns for their sofas section. With our Python skills, we will efficiently create these keywords!
+The most important task in structuring a search engine marketing account is mapping the right keywords to the right ads and making sure they send users to the right landing pages. Having figured that out is a big part of the account setup and makes the life of the account manager much easier.
+
+4. Exploring the Bitcoin Cryptocurrency market
+
+Skills tested: Pandas foundation, cleaning data in python, manipulating dataframes with pandas
+
+Project description :To better understand the growth and impact of Bitcoin and other cryptocurrencies we will, in this project, explore the market capitalization of different cryptocurrencies.
+Warning: The cryptocurrency market is exceptionally volatile, and any money you put in might disappear into thin air. Never invest money you can't afford to lose.
+
+5. Exploring 67 years of LEGO
+
+Skills tested: Pandas foundation, manipulating dataframes with pandas
+
+Project description :The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc. It might be small bricks, but this is big data! In this project, we will get to explore the Rebrickable database.
