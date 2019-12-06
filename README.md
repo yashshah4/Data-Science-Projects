@@ -51,3 +51,9 @@ Warning: The cryptocurrency market is exceptionally volatile, and any money you 
 Skills tested: Pandas foundation, manipulating dataframes with pandas
 
 Project description :The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc. It might be small bricks, but this is big data! In this project, we will get to explore the Rebrickable database.
+
+6. Classifying handwritten digits into its class using KNN 
+
+Skills tested: Pandas, Matplotlib, SciKit learn, Machine Learning, K-Nearest Neighbors classifier
+
+Project description :In this project we work with the Scikit learn's in-built digits dataset which is a dataset of handwritten images rendered into pixels and then stored in an array. We use the image data to classify it into ten different classes from 0-9 based on the image. We also show how to choose the neighbors such that the model accuracy is the highest. 
