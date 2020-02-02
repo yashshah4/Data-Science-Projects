@@ -16,6 +16,12 @@ Skills tested: Pandas, Supervised Learning with scikit-learn, Machine Learning, 
 Project description :Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
 The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.
 
+3. Unsupervised Machine Learning Project - Customer segmentation using app behaviour for a marketing app
+
+Skills tested: Pandas, Numpy, Unsupervised Learning with scikit-learn, Machine Learning, Elbow method, k-means clustering, Funnel visualisation using Plotly
+
+Project description :Here we have the data from a marketing app that creates a drive to store solution by showing advertising brochures to users. Based on a combination of user activity & preference, users are sent different kinds of push notifications. The data tells us if a particular user received a notification and if they opened it. We use k-means clustering to segment the users into low, mid and high value customers and propose individual trageting strategies for each segment. Moreover, basic EDA coupled with the segmentation helps us recognise interesting patterns in user behaviour over several weeks and helps us define key initiatives to utilise the user trends to improve business growth.
+
 ## DATA ANALYSIS PROJECTS
 
 1. Analysing international debt statistics
