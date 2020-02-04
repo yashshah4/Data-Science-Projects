@@ -1,3 +1,12 @@
+'''
+This function check of a password entered by the user is a strong Password
+A strong password consists of
+at least 8 characters
+1 uppercase character
+1 lowercase character
+1 digit
+'''
+# importing regex module
 import re
 
 def pswd():
@@ -21,4 +30,4 @@ def pswd():
             print("Password needs to be atleast 8 characters long")
             continue
 
-pswd()   
+pswd()
