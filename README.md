@@ -22,6 +22,18 @@ Skills tested: Pandas, Numpy, Unsupervised Learning with scikit-learn, Machine L
 
 Project description :Here we have the data from a marketing app that creates a drive to store solution by showing advertising brochures to users. Based on a combination of user activity & preference, users are sent different kinds of push notifications. The data tells us if a particular user received a notification and if they opened it. We use k-means clustering to segment the users into low, mid and high value customers and propose individual trageting strategies for each segment. Moreover, basic EDA coupled with the segmentation helps us recognise interesting patterns in user behaviour over several weeks and helps us define key initiatives to utilise the user trends to improve business growth.
 
+4. Computer Vision Project - Bees image loading and preprocessing to create a data pipeline
+
+Skills tested - Numpy, Pandas, Images module from Pillow library, data visualization, image transformation, kernel density estimation, Ipython display
+
+The question at hand is: can a machine identify a bee as a honey bee or a bumble bee? These bees have different behaviors and appearances, but given the variety of backgrounds, positions, and image resolutions it can be a challenge for machines to tell them apart.Being able to identify bee species from images is a task that ultimately would allow researchers to more quickly and effectively collect field data. Pollinating bees have critical roles in both ecology and agriculture, and diseases like colony collapse disorder threaten these species. Identifying different species of bees in the wild means that we can better understand the prevalence and growth of these important insects. This notebook walks through loading and processing images. After loading and processing these images, they will be ready for building models that can automatically detect honeybees and bumblebees.
+
+5. Computer Vision Project - Object detection in images using computer vision and tensorflow
+
+Skills testes - cvlib, openCV, pandas, matplotlib
+
+In this notebook we write a simple program that reads and image from the chosen directory and processes it for object detection using the openCV and cvlib modules of python. The program detects basic objects like bus, car, truck, person, apple, etc. We are using a pre-trained model to detect basic objects instead of training a model ourselves.
+
 ## DATA ANALYSIS PROJECTS
 
 1. Analysing international debt statistics
