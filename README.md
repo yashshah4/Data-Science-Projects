@@ -30,9 +30,15 @@ The question at hand is: can a machine identify a bee as a honey bee or a bumble
 
 5. Computer Vision Project - Object detection in images using computer vision and tensorflow
 
-Skills testes - cvlib, openCV, pandas, matplotlib
+Skills tested - cvlib, openCV, pandas, matplotlib
 
 In this notebook we write a simple program that reads and image from the chosen directory and processes it for object detection using the openCV and cvlib modules of python. The program detects basic objects like bus, car, truck, person, apple, etc. We are using a pre-trained model to detect basic objects instead of training a model ourselves.
+
+6. Natural Language Processing Project - Amazon product review web scraping and sentiment analysis
+
+Skills tested - Pandas, TextBlob, WordCloud, EDA, matplotlib, NLP
+
+In this notebook we scrape the amazon.com website for apple watch product reviews and star rating. We first create a word cloud that highlights the keywords used most frequently in the reviews and then we further assess the sentiment of each review. Our aim is to find the reviews where the star rating and the overall sentiment of the comments do no match because these are typically the reviews where people provide relevant information about the pros and cons of the product that could be a make/break the deal for a prospective buyer. The word cloud combined with the sentiment analysis provides a good indication about what factors generally influence the customer purchasing behaviour.
 
 ## DATA ANALYSIS PROJECTS
 
