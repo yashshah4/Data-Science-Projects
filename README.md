@@ -89,3 +89,18 @@ Warning: The cryptocurrency market is exceptionally volatile, and any money you 
 Skills tested: Pandas foundation, manipulating dataframes with pandas
 
 Project description :The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc. It might be small bricks, but this is big data! In this project, we will get to explore the Rebrickable database.
+
+## Web & App Development
+
+1. Calculator app - Making my own calculator desktop application
+
+Skills tested: tkinter, parser, ttk, gridlayout, pyinstaller
+
+Project description :In this project we make our very first GUI application, a fully functional calculator that can be used to make basic calculation. Theoretically, we can add as many functions to this calculator as we want. The python script is then converted into a single executable file using python script freezing tool (pyinstaller). This helps in easily sharing the app with others and avoids the need for them to download any modules. The executable file is also found in this repo.
+
+2. OCR app - Making an application that extracts text from pictures
+
+Skills tested: tkinter, functions, tesseract, PIL, Image, pyperclip, filedialog, messagebox, py installer
+
+Project description :In this project we make a new desktop app called OCR. This GUI application uses a browse button to browse and open an image file (.jpg, .jpeg & .png). If this image has text in it then the application will extract it and show it in a messagebox. Moreover, this text is also copied to the clipboard for easy access for the user of this application. The application is unfortunately too large to be added here since it has many dependencies. Therefore, only the python script has been uploaded here.
+
