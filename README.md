@@ -104,3 +104,9 @@ Skills tested: tkinter, functions, tesseract, PIL, Image, pyperclip, filedialog,
 
 Project description :In this project we make a new desktop app called OCR. This GUI application uses a browse button to browse and open an image file (.jpg, .jpeg & .png). If this image has text in it then the application will extract it and show it in a messagebox. Moreover, this text is also copied to the clipboard for easy access for the user of this application. The application is unfortunately too large to be added here since it has many dependencies. Therefore, only the python script has been uploaded here.
 
+3. Building database application for PostgreSQL using Python
+
+Skills tested: tkinter, PostgreSQL, psycopg2, SQL, canvas, frames, labels & buttons
+
+Project description :In this project we built a destop GUI application in Python that could connect and interact with PostgreSQL database. PostgreSQL is a widely used relational database management system that is particularly famous for its scalability. While CML is generally a good option to interact and work with databases, a GUI application would reduce the entry barrier for novice users. This project builds a simple application for so that user could easily add data to the database using data entry fields, have an overview of the data in the table and search for a particular entry using the search field.
+
