@@ -9,7 +9,7 @@ root.title("Database application for PostgreSQL database")
 # creating a new function to insert data into the db
 def get_data(name, age, address):
     # We need database details to connect to it
-    conn = psycopg2.connect(dbname="postgres", user="yashshah", password="yashshah", host="localhost", port="5432")
+    conn = psycopg2.connect(dbname="postgres", user="user", password="password", host="localhost", port="5432")
     # To write queries to the db, we first need to create a cursor like below
     cur = conn.cursor()
     # Now we can write a quesry as below & it will be executed automatically
