@@ -1,13 +1,13 @@
 # Data-Science-projects
-A collection of interesting Data Science Projects that highlight the foundational understanding of SQL, Python and it's libraries 
+A collection of interesting Data Science Projects that highlight the foundational understanding of SQL, Python and it's libraries
 
 ## MACHINE LEARNING PROJECTS
 
-1. Supervised Machine Learning Project - Classifying handwritten digits into its class using KNN 
+1. Supervised Machine Learning Project - Classifying handwritten digits into its class using KNN
 
 Skills tested: Pandas, Matplotlib, SciKit learn, Machine Learning, K-Nearest Neighbors classifier
 
-Project description :In this project we work with the Scikit learn's in-built digits dataset which is a dataset of handwritten images rendered into pixels and then stored in an array. We use the image data to classify it into ten different classes from 0-9 based on the image. We also show how to choose the neighbors such that the model accuracy is the highest. 
+Project description :In this project we work with the Scikit learn's in-built digits dataset which is a dataset of handwritten images rendered into pixels and then stored in an array. We use the image data to classify it into ten different classes from 0-9 based on the image. We also show how to choose the neighbors such that the model accuracy is the highest.
 
 2. Supervised Machine Learning Project - Predicting credit card approval using logistic regression classification model
 
@@ -26,19 +26,25 @@ Project description :Here we have the data from a marketing app that creates a d
 
 Skills tested - Numpy, Pandas, Images module from Pillow library, data visualization, image transformation, kernel density estimation, Ipython display
 
-The question at hand is: can a machine identify a bee as a honey bee or a bumble bee? These bees have different behaviors and appearances, but given the variety of backgrounds, positions, and image resolutions it can be a challenge for machines to tell them apart.Being able to identify bee species from images is a task that ultimately would allow researchers to more quickly and effectively collect field data. Pollinating bees have critical roles in both ecology and agriculture, and diseases like colony collapse disorder threaten these species. Identifying different species of bees in the wild means that we can better understand the prevalence and growth of these important insects. This notebook walks through loading and processing images. After loading and processing these images, they will be ready for building models that can automatically detect honeybees and bumblebees.
+Project description :The question at hand is: can a machine identify a bee as a honey bee or a bumble bee? These bees have different behaviors and appearances, but given the variety of backgrounds, positions, and image resolutions it can be a challenge for machines to tell them apart.Being able to identify bee species from images is a task that ultimately would allow researchers to more quickly and effectively collect field data. Pollinating bees have critical roles in both ecology and agriculture, and diseases like colony collapse disorder threaten these species. Identifying different species of bees in the wild means that we can better understand the prevalence and growth of these important insects. This notebook walks through loading and processing images. After loading and processing these images, they will be ready for building models that can automatically detect honeybees and bumblebees.
 
 5. Computer Vision Project - Object detection in images using computer vision and tensorflow
 
 Skills tested - cvlib, openCV, pandas, matplotlib
 
-In this notebook we write a simple program that reads and image from the chosen directory and processes it for object detection using the openCV and cvlib modules of python. The program detects basic objects like bus, car, truck, person, apple, etc. We are using a pre-trained model to detect basic objects instead of training a model ourselves.
+Project description :In this notebook we write a simple program that reads and image from the chosen directory and processes it for object detection using the openCV and cvlib modules of python. The program detects basic objects like bus, car, truck, person, apple, etc. We are using a pre-trained model to detect basic objects instead of training a model ourselves.
 
 6. Natural Language Processing Project - Amazon product review web scraping and sentiment analysis
 
 Skills tested - Pandas, TextBlob, WordCloud, EDA, matplotlib, NLP
 
-In this notebook we scrape the amazon.com website for apple watch product reviews and star rating. We first create a word cloud that highlights the keywords used most frequently in the reviews and then we further assess the sentiment of each review. Our aim is to find the reviews where the star rating and the overall sentiment of the comments do no match because these are typically the reviews where people provide relevant information about the pros and cons of the product that could be a make/break the deal for a prospective buyer. The word cloud combined with the sentiment analysis provides a good indication about what factors generally influence the customer purchasing behaviour.
+Project description :In this notebook we scrape the amazon.com website for apple watch product reviews and star rating. We first create a word cloud that highlights the keywords used most frequently in the reviews and then we further assess the sentiment of each review. Our aim is to find the reviews where the star rating and the overall sentiment of the comments do no match because these are typically the reviews where people provide relevant information about the pros and cons of the product that could be a make/break the deal for a prospective buyer. The word cloud combined with the sentiment analysis provides a good indication about what factors generally influence the customer purchasing behaviour.
+
+7. Classification Project - Classify song genres from audio data
+
+Skills tested - SciKit Learn, Principal Ccomponent Analysis, Decision tree classifier, Logistic Regression classifier, classification_report, DataFrame sampling, matplotlib, StandardScalar, unbalanced dataset problem
+
+Project description :In this project we take audio metadata compiled by Echo Nest and use it to evaluate two different classification models' performance in classifying a song as rock or hip-hop based on their metadata features. We then further evaluate the model using k-fold cross-validation technique. This project highlights all the steps from data reading & preprocessing to implementing ML algorithms and evaluating their performance. Since the data is unbalanced, we also resample the label that has significantly lower records to remove bias from our ML models. 
 
 ## DATA ANALYSIS PROJECTS
 
@@ -109,4 +115,3 @@ Project description :In this project we make a new desktop app called OCR. This 
 Skills tested: tkinter, PostgreSQL, psycopg2, SQL, canvas, frames, labels & buttons
 
 Project description :In this project we built a destop GUI application in Python that could connect and interact with PostgreSQL database. PostgreSQL is a widely used relational database management system that is particularly famous for its scalability. While CML is generally a good option to interact and work with databases, a GUI application would reduce the entry barrier for novice users. This project builds a simple application for so that user could easily add data to the database using data entry fields, have an overview of the data in the table and search for a particular entry using the search field.
-
