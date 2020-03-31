@@ -44,7 +44,7 @@ Project description :In this notebook we scrape the amazon.com website for apple
 
 Skills tested - SciKit Learn, Principal Ccomponent Analysis, Decision tree classifier, Logistic Regression classifier, classification_report, DataFrame sampling, matplotlib, StandardScalar, unbalanced dataset problem
 
-Project description :In this project we take audio metadata compiled by Echo Nest and use it to evaluate two different classification models' performance in classifying a song as rock or hip-hop based on their metadata features. We then further evaluate the model using k-fold cross-validation technique. This project highlights all the steps from data reading & preprocessing to implementing ML algorithms and evaluating their performance. Since the data is unbalanced, we also resample the label that has significantly lower records to remove bias from our ML models. 
+Project description :In this project we take audio metadata compiled by Echo Nest and use it to evaluate two different classification models' performance in classifying a song as rock or hip-hop based on their metadata features. We then further evaluate the model using k-fold cross-validation technique. This project highlights all the steps from data reading & preprocessing to implementing ML algorithms and evaluating their performance. Since the data is unbalanced, we also resample the label that has significantly lower records to remove bias from our ML models.
 
 ## DATA ANALYSIS PROJECTS
 
@@ -62,14 +62,14 @@ The prerequisite for this project is Intro to SQL for Data Science.
 The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
 
 
-2. Data Analysis Project - The discovery of handwash project
+2. The discovery of handwash project
 
 Skills tested: Importing & cleaning data in Python, data manipulation with Python, data visualization with python's matplotlib, foundational understanding of statistics & probability.
 
 Project description : In 1847, the Hungarian physician Ignaz Semmelweis makes a breakthough discovery: He discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
 In this python project we will reanalyze the medical data Semmelweis collected.
 
-3. Data Analysis Project - GoT network analysis project
+3. GoT network analysis project
 
 Skills tested: Network analysis in Python, foundational understanding of pandas
 
@@ -83,18 +83,24 @@ Skills tested: Intermediate level knowledge of python, foundational understandin
 Project description :In this case study, we work for a digital marketing agency, which is approached by a massive online retailer of furniture. We are tasked with creating a prototype set of keywords for search campaigns for their sofas section. With our Python skills, we will efficiently create these keywords!
 The most important task in structuring a search engine marketing account is mapping the right keywords to the right ads and making sure they send users to the right landing pages. Having figured that out is a big part of the account setup and makes the life of the account manager much easier.
 
-5. Data Analysis Project - Exploring the Bitcoin Cryptocurrency market
+5. Exploring the Bitcoin Cryptocurrency market
 
 Skills tested: Pandas foundation, cleaning data in python, manipulating dataframes with pandas
 
 Project description :To better understand the growth and impact of Bitcoin and other cryptocurrencies we will, in this project, explore the market capitalization of different cryptocurrencies.
 Warning: The cryptocurrency market is exceptionally volatile, and any money you put in might disappear into thin air. Never invest money you can't afford to lose.
 
-6. Data Analysis Project - Exploring 67 years of LEGO
+6. Exploring 67 years of LEGO
 
 Skills tested: Pandas foundation, manipulating dataframes with pandas
 
 Project description :The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc. It might be small bricks, but this is big data! In this project, we will get to explore the Rebrickable database.
+
+7. Disney movies and box office success
+
+Skills tested: Statistical inference, significance testing, graphical EDA, Numpy, Matplotlib, Bootstrap replicate
+
+Project description :In this project we look at the movie data of Disney movies and their inflation adjusted box office success. Then we evaluate if there is a statistically significant relationship between movie genres and box office success. If so, then what kind of a movie-making decision would help Disney achieve more success. The findings are interesting and since the data is from 2011, we can immediately gauge if the recommendations from our analysis would have led to success or not. 
 
 ## Web & App Development
 
