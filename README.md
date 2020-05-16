@@ -100,7 +100,7 @@ Project description :The Rebrickable database includes data on every LEGO set th
 
 Skills tested: Statistical inference, significance testing, graphical EDA, Numpy, Matplotlib, Bootstrap replicate
 
-Project description :In this project we look at the movie data of Disney movies and their inflation adjusted box office success. Then we evaluate if there is a statistically significant relationship between movie genres and box office success. If so, then what kind of a movie-making decision would help Disney achieve more success. The findings are interesting and since the data is from 2011, we can immediately gauge if the recommendations from our analysis would have led to success or not. 
+Project description :In this project we look at the movie data of Disney movies and their inflation adjusted box office success. Then we evaluate if there is a statistically significant relationship between movie genres and box office success. If so, then what kind of a movie-making decision would help Disney achieve more success. The findings are interesting and since the data is from 2011, we can immediately gauge if the recommendations from our analysis would have led to success or not.
 
 ## Web & App Development
 
@@ -121,3 +121,11 @@ Project description :In this project we make a new desktop app called OCR. This 
 Skills tested: tkinter, PostgreSQL, psycopg2, SQL, canvas, frames, labels & buttons
 
 Project description :In this project we built a destop GUI application in Python that could connect and interact with PostgreSQL database. PostgreSQL is a widely used relational database management system that is particularly famous for its scalability. While CML is generally a good option to interact and work with databases, a GUI application would reduce the entry barrier for novice users. This project builds a simple application for so that user could easily add data to the database using data entry fields, have an overview of the data in the table and search for a particular entry using the search field.
+
+## Data collection
+
+1. Scraping IMDB for details of top 50 movies for a specified timeframe
+
+Skills tested: Web-Scraping, bs4, BeautifulSoup, Pandas, Numpy, HTML parsing
+
+Project description :In this project we scrape the IMDB website for top 50 movies for each year between the specified timeframe. Using the BeautifulSoup module, we parse the HTML data and then transform it to extract only key information from each tag. We then format it for clear articulation and store the data in a dataframe. We can use this dataframe to create tables & store them in a database like PostgreSQL.
